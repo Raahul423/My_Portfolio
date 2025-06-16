@@ -17,7 +17,8 @@ import projecttwo from './Assests/netflix_animation.gif'
 
 // import project3 from './Assests/project-3.png'
 import mail from './Assests/email.png'
-// import { faBars, faXmark } from '@fortawesome/free-solid-svg-icons';
+import { faBars, faXmark } from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 
 
@@ -101,11 +102,11 @@ function App() {
         <div className="responsive-menu">
           <div className="responsive-icon"
             onClick={navbar}>
-            {/* <FontAwesomeIcon icon={faBars} /> */}
+            <FontAwesomeIcon icon={faBars} />
           </div>
 
           <div className="cross" onClick={crossicon}>
-            {/* <FontAwesomeIcon icon={faXmark} /> */}
+            <FontAwesomeIcon icon={faXmark} />
           </div>
 
           <div className="menu-links">
