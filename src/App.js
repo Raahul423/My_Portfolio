@@ -283,7 +283,7 @@ function App() {
           <div className="about-containers">
             <div className="details-container     color-container">
               <div className="article-container project-cointainer">
-                <a href='https://raahul423.github.io/YouTube-Clone/' alt="Mythrill" target="_blank">
+                <a href='https://raahul423.github.io/YouTube-Clone/' alt="Mythrill" target="_blank" rel='noreferrer'>
                   <div className="card">
                     <div className="wrapper">
                       <img src={project1} alt='Error' className="cover-image" />
@@ -312,7 +312,7 @@ function App() {
 
             <div className="details-container color-container">
               <div className="article-container">
-                <a  href='https://moviesvisible-project.netlify.app/' alt="Mythrill" target="_blank">
+                <a  href='https://moviesvisible-project.netlify.app/' alt="Mythrill" target="_blank" rel='noreferrer'>
                   <div className="card">
                     <div className="wrapper">
                       <img src={project2} alt='Error' className="cover-image" />
