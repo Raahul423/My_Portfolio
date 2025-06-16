@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/My_Portfolio/static/css/main.cb6c233e.css",
+    "main.js": "/My_Portfolio/static/js/main.a2eb054b.js",
+    "static/js/453.83234151.chunk.js": "/My_Portfolio/static/js/453.83234151.chunk.js",
+    "static/media/netflix_animation.gif": "/My_Portfolio/static/media/netflix_animation.64648a501ed951e9bfe9.gif",
+    "static/media/youtube_home.gif": "/My_Portfolio/static/media/youtube_home.2236149adb8edfba8be7.gif",
+    "static/media/rahul-profile.jpg": "/My_Portfolio/static/media/rahul-profile.064f914ebd96fbd28a1e.jpg",
+    "static/media/netflix.jpg": "/My_Portfolio/static/media/netflix.1215c4a256869233f9d0.jpg",
+    "static/media/rahul_Portfolio.pdf": "/My_Portfolio/static/media/rahul_Portfolio.7851ac31b19fcd92fa3e.pdf",
+    "static/media/IMG_20240830_213334.jpg": "/My_Portfolio/static/media/IMG_20240830_213334.4ec94fa0fff2e927bdb2.jpg",
+    "static/media/milad-fakurian-3hIaqX3VuXE-unsplash.jpg": "/My_Portfolio/static/media/milad-fakurian-3hIaqX3VuXE-unsplash.9ad7ac3596f865b95036.jpg",
+    "static/media/youtube.jpg": "/My_Portfolio/static/media/youtube.00a6aa7114bbaf666d19.jpg",
+    "static/media/email.png": "/My_Portfolio/static/media/email.761df3bc69bdc631bd2f.png",
+    "static/media/checkmark.png": "/My_Portfolio/static/media/checkmark.86728d9a224a2c7c95d4.png",
+    "static/media/arrow.png": "/My_Portfolio/static/media/arrow.0dfabb0beab795eea0ab.png",
+    "static/media/linkedin.png": "/My_Portfolio/static/media/linkedin.032cf8a63be2f0f4d425.png",
+    "index.html": "/My_Portfolio/index.html",
+    "main.cb6c233e.css.map": "/My_Portfolio/static/css/main.cb6c233e.css.map",
+    "main.a2eb054b.js.map": "/My_Portfolio/static/js/main.a2eb054b.js.map",
+    "453.83234151.chunk.js.map": "/My_Portfolio/static/js/453.83234151.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb6c233e.css",
+    "static/js/main.a2eb054b.js"
+  ]
+}
