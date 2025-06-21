@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 // import { Document, Page,} from 'react-pdf'
-import mypdf from './Assests/rahul_Portfolio.pdf';
+import mypdf from './Assests/Rahul_Portfolio.pdf';
 
 import profile from './Assests/rahul-profile.jpg';
 import arrow from './Assests/arrow.png';
@@ -38,7 +38,7 @@ function App() {
     window.location.href='https://github.com/Raahul423/Netflix-clone'
   }
   let netflixclonelive=()=>{
-    window.location.href='https://moviesvisible-project.netlify.app/'
+    window.location.href='https://moviess-clone.netlify.app/'
   }
 
 
