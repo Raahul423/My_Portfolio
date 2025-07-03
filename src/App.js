@@ -53,7 +53,6 @@ function App() {
   };
 
   function navbar() {
-    // console.log("hii");
     const menu = document.querySelector(".menu-links");
     const icon = document.querySelector(".responsive-icon");
     const cross = document.querySelector(".cross");
